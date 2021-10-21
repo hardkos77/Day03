@@ -1,0 +1,5 @@
+nc -l "port"
+ifconfig (récupération IP)
+nc "IP de l'hôte" "port de l'hôte"
+
+
