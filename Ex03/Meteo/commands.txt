@@ -1,3 +1,3 @@
 sudo crontab -e
 
-* 8 * * 1-5 curl wttr.in/Batman > /Users/JLH/Documents/IT_Akademy/Piscine_Git/Day03/Ex03/Meteo/meteo.txt
+* 8 * * 1-5 curl wttr.in/Batman > /Users/JLH/Documents/IT_Akademy/Piscine_Git/Day03/Ex03/Meteo/meteoOfTheDay.txt
