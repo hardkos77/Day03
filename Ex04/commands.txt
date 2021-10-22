@@ -1,1 +1,1 @@
-30 7 * * * bash /Users/JLH/scripts/bin
+30 7 * * * bash /Users/JLH/scripts/bin/backup.sh
